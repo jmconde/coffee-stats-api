@@ -1,11 +1,11 @@
 {
-  "name": "lts-stats",
+  "name": "coffee-stats",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docker-build": "docker build -t arhuako/ltsapi .",
+    "docker-build": "docker build -t arhuako/coffee-api .",
     "dev": "nodemon ./index.js"
   },
   "author": "",
