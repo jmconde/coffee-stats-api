@@ -1,0 +1,9 @@
+node_modules
+.history
+.vscode
+.env
+.env.local
+.env.*.local
+testData/
+test.js
+.notes
