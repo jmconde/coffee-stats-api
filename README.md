@@ -10,11 +10,11 @@
 - **MONGO_USER**: MongoDB user
 - **MONGO_PASS**: MongoDB password
 - **MONGO_DB**: MongoDB database name
-- **LSA_MYSQL_HOST**: 167.114.57.177
-- **LSA_MYSQL_PORT**: 3306
-- **LSA_MYSQL_USER**: latinstr_arhuako
-- **LSA_MYSQL_PASS**: 7iNuE[Fbwopi
-- **LSA_MYSQL_DB**: latinstr_crew
+- **LSA_MYSQL_HOST**: 
+- **LSA_MYSQL_PORT**:
+- **LSA_MYSQL_USER**: 
+- **LSA_MYSQL_PASS**: 
+- **LSA_MYSQL_DB**:
 - **LSA_MYSQL_CONN_LIMIT**: 20
 - **HOSTS_WHITELIST**: Hosts CORS whitelist  
 - **REDIS_HOST**: Redis IP or domain name
